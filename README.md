@@ -109,6 +109,3 @@ This project is open-source and available under the MIT License.
 
 
 ---
-
-👉 Do you want me to also create a short GitHub profile README (About Me + Skills + Top Projects) that will make your whole GitHub look recruiter-friendly?
-
